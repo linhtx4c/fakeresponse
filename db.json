@@ -1,7 +1,12 @@
 {
     "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
+        {
+            "status": 10023,
+            "msg": "Bank error",
+            "rec_trade_id": "NP20230424jcvQf0",
+            "bank_result_code": "51",
+            "bank_result_msg": "交易拒絕",
+            "merchant_id": "LGEOnlineBrandShop_00003"
+        }
     ]
   }
